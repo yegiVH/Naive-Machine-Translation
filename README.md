@@ -1,4 +1,4 @@
-# Enhanced Machine Translation with Word Embeddings
+# Naive Machine Translation with Word Embeddings
 
 This project implements a simple **English → French word translation model**
 using pretrained word embeddings and a learned linear transformation.
@@ -58,3 +58,4 @@ The overlap between green and orange points shows that the model successfully al
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
